@@ -34,7 +34,7 @@
     "mongoose-bcrypt": "^1.6.0",
     "mongoose-dateonly": "^1.0.6",
     "nest-winston": "^1.2.0",
-    "nodemailer": "^6.3.1",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
